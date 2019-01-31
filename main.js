@@ -31,8 +31,11 @@ function renderHTML(data) {
                 htmlString += ' and ';
             }
         }
-        
     animalContainer.insertAdjacentHTML('beforeend',htmlString);
     htmlString = '';
     }
 }
+/* 
+javascript:var input=prompt("Enter word to search for");{window.open("https://dictionary.cambridge.org/dictionary/english/"+input)};
+*/
+
