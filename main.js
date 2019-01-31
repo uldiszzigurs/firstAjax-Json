@@ -36,6 +36,7 @@ function renderHTML(data) {
     }
 }
 /* 
+ignore this haha.
 javascript:var input=prompt("Enter word to search for");{window.open("https://dictionary.cambridge.org/dictionary/english/"+input)};
 */
 
